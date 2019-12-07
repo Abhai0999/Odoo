@@ -1,16 +1,12 @@
-#testng reports            //these reports will be ignored.
+#testng reports
 test-output/
 
-#maven reports & compiled files   //these reports will  ignored.
+#maven reports & compiled files
 target/
 
-#log4j reports & excel reports      //these reports will be ignored.
-report/excelreports/
-report/HTML/
-report/logs/
+#log4j reports & excel reports
 
 #screenshots
-screenshots/
 
 #allure reports
 allure-results/
